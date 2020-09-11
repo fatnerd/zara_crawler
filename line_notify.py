@@ -16,5 +16,3 @@ class Notify():
         return r.status_code
 
 
-# my line notufy token 
-# lIL6AbXccBARkhlrGuM6QS1PsmVuh5Oy6WeNPdilpxl
