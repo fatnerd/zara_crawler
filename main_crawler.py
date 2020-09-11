@@ -6,6 +6,6 @@ link = input('plz paste url:')
 c = Crawler()
 scraped = c.scrape(link)
 
-token = 'lIL6AbXccBARkhlrGuM6QS1PsmVuh5Oy6WeNPdilpxl'
+token = 'yourtoken'
 notify = Notify(token)
 notify.send(scraped)
